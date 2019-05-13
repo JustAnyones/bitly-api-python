@@ -1,3 +1,6 @@
+Original at https://github.com/bitly/bitly-api-python seems abandoned.
+I tried to aggregate the good pull-requests in this repo.
+
 bitly API python library
 ========================
 
