@@ -7,6 +7,8 @@ bitly API python library
 ## Installation
 
     pip install git+git://github.com/jimmy927/bitly-api-python
+    
+    also putting "git+git://github.com/jimmy927/bitly-api-python" in your requirements.txt will work.
 
 ## Usage
 
