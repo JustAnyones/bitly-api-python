@@ -1,6 +1,12 @@
 Original at https://github.com/bitly/bitly-api-python seems abandoned.
 I tried to aggregate the good pull-requests in this repo.
 
+This lib works againt the old bitly API ( v3 ? )
+
+You should propably have a look at this one if you dont allrady have a lot of old code written againt this one and can accept Python 3.7+ only:
+
+https://github.com/impredicative/bitlyshortener
+
 bitly API python library
 ========================
 
