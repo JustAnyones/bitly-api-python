@@ -1,3 +1,6 @@
+WARNING FROM BITLY: API V3 will be deactivated on March 1, 2020. If you are currently using V3, migrate to V4 as soon as possible to avoid a breakdown of your integrations. See all the changes in our updated documentation for API V4.
+
+
 Original at https://github.com/bitly/bitly-api-python seems abandoned.
 I tried to aggregate the good pull-requests in this repo.
 
