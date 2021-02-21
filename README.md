@@ -1,3 +1,6 @@
+## Very simple information
+This is a fork of jimmy927's fork of bitly API for Python purely for redundancy reasons.
+
 WARNING FROM BITLY: API V3 will be deactivated on March 1, 2020. If you are currently using V3, migrate to V4 as soon as possible to avoid a breakdown of your integrations. See all the changes in our updated documentation for API V4.
 
 
